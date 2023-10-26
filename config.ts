@@ -3,7 +3,7 @@ const config: Config = {
     // AI_PAINTING_ANIME
     mode: 'AI_PAINTING_ANIME',
 
-    botToken: 'put_your_token_here',
+    botToken: '6673836527:AAHZluJRtOA-Z9zgssmhcAoh6XUZdbZlrhY',
 
     keepFiles: {
         compared: true,
